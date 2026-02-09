@@ -1,0 +1,2 @@
+# deriv-trading-bot
+ReiBot
